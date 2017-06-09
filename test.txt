@@ -10,5 +10,4 @@ as
 da
 sd
 asd
-a
-sd
+Commit especially for Glip.
